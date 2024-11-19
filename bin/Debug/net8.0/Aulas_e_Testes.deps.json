@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aulas_e_Testes/1.0.0": {
+        "runtime": {
+          "Aulas_e_Testes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aulas_e_Testes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

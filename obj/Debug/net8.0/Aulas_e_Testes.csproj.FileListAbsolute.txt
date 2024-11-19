@@ -1,0 +1,14 @@
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\bin\Debug\net8.0\Aulas_e_Testes.exe
+C:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\bin\Debug\net8.0\Aulas_e_Testes.deps.json
+C:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\bin\Debug\net8.0\Aulas_e_Testes.runtimeconfig.json
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\bin\Debug\net8.0\Aulas_e_Testes.dll
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\bin\Debug\net8.0\Aulas_e_Testes.pdb
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.AssemblyInfoInputs.cache
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.AssemblyInfo.cs
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.csproj.CoreCompileInputs.cache
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.dll
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\refint\Aulas_e_Testes.dll
+c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.pdb
+C:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.genruntimeconfig.cache
+C:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\ref\Aulas_e_Testes.dll
