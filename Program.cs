@@ -10,9 +10,23 @@ using System.Globalization;
     y.calculaArea();
     x.comparaArea(x,y);
 
-    System.Console.WriteLine("===============================================================================================");
+    System.Console.WriteLine("===========================================EXERCICIO PESSOA E IDADE====================================================");
     
     Pessoa pessoa,pessoa1, pessoa2;
     pessoa1 = new Pessoa("Amanda", 29);
     pessoa2 = new Pessoa("Anderson", 30);
     pessoa1.comparaIdade(pessoa1, pessoa2);
+
+        System.Console.WriteLine("========================================EXERCICIO FUNCIONÁRIO E SALARIO=======================================================");
+
+    Funcionario funcionario1, funcionario2;
+    funcionario1 = new Funcionario("João");
+    funcionario2 = new Funcionario("Pedro");
+
+    funcionario1.run();
+    funcionario2.run();
+
+    funcionario1.comparaSalario(funcionario1, funcionario2);
+
+
+    //FAZER EXERCICIOS EM FORMA DE CLASSE PARA SÓ INSTANCIAR NA CLASSE PRINCIPAL
