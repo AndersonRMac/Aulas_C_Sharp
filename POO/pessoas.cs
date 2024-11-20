@@ -7,7 +7,7 @@ class Pessoa
         this.nome = nome;
         this.idade = idade;
     }
-    public string calculaMaiorIdade(Pessoa pessoa1, Pessoa pessoa2){
+    public string comparaIdade(Pessoa pessoa1, Pessoa pessoa2){
 
         string resultado;
         if (pessoa1.idade > pessoa2.idade)

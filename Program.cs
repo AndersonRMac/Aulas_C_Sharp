@@ -15,7 +15,4 @@ using System.Globalization;
     Pessoa pessoa,pessoa1, pessoa2;
     pessoa1 = new Pessoa("Amanda", 29);
     pessoa2 = new Pessoa("Anderson", 30);
-    pessoa1.calculaMaiorIdade(pessoa1, pessoa2);
-
-
-    //FAZER EXERCICIOS EM FORMA DE CLASSE PARA SÓ INSTANCIAR NA CLASSE PRINCIPAL
+    pessoa1.comparaIdade(pessoa1, pessoa2);
