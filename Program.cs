@@ -1,8 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-int number = 2;
+using System.Globalization;
 
-Console.WriteLine(number += 2);
+    Triangulo x, y;
+    x = new Triangulo("X");
+    y = new Triangulo("Y");
+    x.calculaArea();
+    y.calculaArea();
+    x.comparaArea(x,y);
 
-Console.WriteLine(number -= 3);
+    System.Console.WriteLine("===============================================================================================");
+    
+    Pessoa pessoa,pessoa1, pessoa2;
+    pessoa1 = new Pessoa("Amanda", 29);
+    pessoa2 = new Pessoa("Anderson", 30);
+    pessoa1.calculaMaiorIdade(pessoa1, pessoa2);
+
+
+    //FAZER EXERCICIOS EM FORMA DE CLASSE PARA SÓ INSTANCIAR NA CLASSE PRINCIPAL

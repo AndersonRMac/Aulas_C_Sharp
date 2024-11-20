@@ -12,3 +12,4 @@ c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos 
 c:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.pdb
 C:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.genruntimeconfig.cache
 C:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\ref\Aulas_e_Testes.dll
+C:\Users\t_anderson.maciel\Downloads\ANDERSON\Anderson\Anderson\Estudos\Estudos C#\Aulas_e_Testes\obj\Debug\net8.0\Aulas_e_Testes.sourcelink.json

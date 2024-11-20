@@ -9,7 +9,7 @@ namespace aula
         float num2;
 
         num1 = 5.1;
-        num2 = num1;
+        num2 = 5.2f;
 
         System.Console.WriteLine(num1);
         }  
