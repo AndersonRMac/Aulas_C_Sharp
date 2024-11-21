@@ -3,7 +3,7 @@
 
 using System.Globalization;
 
-    Triangulo x, y;
+    /*Triangulo x, y;
     x = new Triangulo("X");
     y = new Triangulo("Y");
     x.calculaArea();
@@ -26,7 +26,14 @@ using System.Globalization;
     funcionario1.run();
     funcionario2.run();
 
-    funcionario1.comparaSalario(funcionario1, funcionario2);
+    funcionario1.comparaSalario(funcionario1, funcionario2);*/
 
+        System.Console.WriteLine("========================================EXERCICIO ESTOQUE=======================================================");
+
+    Produto produto = new Produto();
+
+    produto.Run();
+    produto.RealizaEntrada(produto);
+    produto.RetiraProduto(produto);
 
     //FAZER EXERCICIOS EM FORMA DE CLASSE PARA SÓ INSTANCIAR NA CLASSE PRINCIPAL
