@@ -30,10 +30,14 @@ using System.Globalization;
 
         System.Console.WriteLine("========================================EXERCICIO ESTOQUE=======================================================");
 
-    Produto produto = new Produto();
+        Console.Write($"Qual o nome do produto?");
+        string nome = Console.ReadLine();
+        Console.Write($"Qual o valor do produto?");
+        double preco = double.Parse(Console.ReadLine());
+        Console.Write($"Qual a quantidade do produto?");
+        int estoque = int.Parse(Console.ReadLine());
 
-    produto.Run();
-    produto.RealizaEntrada(produto);
-    produto.RetiraProduto(produto);
+         Produto p = new Produto(nome, preco, estoque);
+
 
     //FAZER EXERCICIOS EM FORMA DE CLASSE PARA SÓ INSTANCIAR NA CLASSE PRINCIPAL

@@ -1,24 +1,18 @@
 class Produto
 {
-    public string name;
-    public double price;
-    public int qtdEstoque;
+    public string Name;
+    public double Price;
+    public int QtdEstoque;
 
-    public Produto(){
-        this.name = name;
-        this.price = price;
-        this.qtdEstoque = qtdEstoque;
-    }  
-    public void Run(){
-        System.Console.WriteLine($"Qual o nome do produto?");
-        this.name = Console.ReadLine();
-        System.Console.WriteLine($"Qual o valor do produto?");
-        this.price = double.Parse(Console.ReadLine());
-        System.Console.WriteLine($"Qual a quantidade do produto?");
-        this.qtdEstoque = int.Parse(Console.ReadLine());
-
-        System.Console.WriteLine($"{this.name}, preço unitário: R$={this.price},00 , quantidade: {this.qtdEstoque}, valor estoque {this.qtdEstoque * this.price}");
+    public Produto(string name, double price,  int qtdEstoque){
+        Name = name;
+        Price = price;
+        QtdEstoque = qtdEstoque;
+        
+        Console.Write($"Dados do produto: NOME: {Name}, PREÇO: R${Price},00 reais, QUANTIDADE EM ESTOQUE: {QtdEstoque}, VALOR EM ESTOQUE: {price * QtdEstoque} ");
     }
+
+    /*
     public int RealizaEntrada(Produto produto){
         int qtdFinal;
         int qtdEntrada;
@@ -43,4 +37,5 @@ class Produto
         this.qtdEstoque = qtdFinal;
         System.Console.WriteLine($"Dados atualizados: {this.name}, {this.price}, quantidade atual em estoque: {this.qtdEstoque}, valor total atual em estoque: R$={this.qtdEstoque * this.price},00");
     }
+    */
 }
