@@ -1,6 +1,6 @@
 namespace CodeWars
 {
-    public class Desafios
+    public class CodeWarsTests
     {
             //CONVERT A STRING TO A NUMBER
         public static int StringToNumber(string s){
