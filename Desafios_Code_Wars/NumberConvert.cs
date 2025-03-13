@@ -47,5 +47,30 @@ If he doesn't get 10 hoops, return the string "Keep at it until you get it".*/
         {
             return (n > 10)?"Great, now move on to tricks" : "Keep at it until you get it";
         }
-    }  
+/*
+Messi goals function
+Messi is a soccer player with goals in three leagues:LaLiga, Copa del Rey, Champions
+Complete the function to return his total number of goals in all three leagues.
+Note: the input will always be valid.
+For example:
+5, 10, 2  -->  17
+*/
+        public static int GetGoals(int laLigaGoals, int copaDelReyGoals, int championsLeagueGoals)
+        {
+            
+            int total = laLigaGoals + copaDelReyGoals + championsLeagueGoals;
+            return total;
+            
+        }
+
+/*
+The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns
+ it in cm per second, rounded down to the integer (= floored).*/
+    public static int CockroachSpeed(double x)
+    {
+      int ConvertValor = (int)(x * 27.7778);
+      return ConvertValor;
+    }
+    }
+
 }
