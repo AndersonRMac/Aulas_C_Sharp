@@ -85,5 +85,28 @@ If he doesn't get 10 hoops, return the string "Keep at it until you get it".*/
             s = *1000;
             return h + m + s;
         }
+        public static boolean setAlarm(bool employed, bool vacation)
+        {
+            return (employed, vacation) switch
+            {
+                (true, true) => false,
+                (true, false) => true,
+                (false, true) => false,
+                (false, false) => false,
+            };
+            /*
+            switch (employed | vacation)
+            {
+                case employed | vacation: true | true = false;
+                case employed | vacation: true | false = true;
+                case employed | vacation: false | true = false;
+                case employed | vacation: false | false = false;
+            }*/
+            
+
+
+
+
+        }
     }
 }
